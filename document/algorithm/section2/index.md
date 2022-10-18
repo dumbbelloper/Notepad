@@ -1,2 +1,2 @@
 * Section2
-  * [test](test.md)
+  * [test](../section2/test.md)
