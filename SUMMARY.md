@@ -6,6 +6,7 @@
     * [Section 1](document/algorithm/section1/index.md)
       * [문자찾기](document/algorithm/section1/find_char.md)
       * [대소문자 변환](document/algorithm/section1/case_conversion.md)
+      * [문장 속 단어 찾기](document/algorithm/section1/find_word_in_sentence.md)
     * [Section 2](document/algorithm/section2/index.md)
       * [test](document/algorithm/section2/test.md)
 * [Data Structure](document/data_structure/index.md)

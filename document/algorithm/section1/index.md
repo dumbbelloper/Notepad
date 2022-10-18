@@ -1,3 +1,4 @@
 * [문자찾기](../section1/find_char.md)
 * [대소문자 변환](../section1/case_conversion.md)
+* [문장 속 단어 찾기](find_word_in_sentence.md)
 
