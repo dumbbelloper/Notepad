@@ -1,2 +1,2 @@
-* [Section2](index.md)
+* Section2
   * [test](test.md)
