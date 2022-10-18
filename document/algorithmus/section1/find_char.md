@@ -28,6 +28,7 @@ c
 2
 ```
 
+## 코드
 ```
 import java.util.Scanner;
 
