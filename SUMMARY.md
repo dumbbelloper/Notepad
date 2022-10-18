@@ -4,7 +4,7 @@
     * [Spring](document/spring/index.md)
 * [Algorithm](document/algorithm/index.md)
     * [Section 1](document/algorithm/section1/index.md)
-      * [문자찾기](document/algorithm/section1/index.md)
+      * [문자찾기](document/algorithm/section1/find_char.md)
       * [대소문자 변환](document/algorithm/section1/case_conversion.md)
     * [Section 2](document/algorithm/section2/index.md)
       * [test](document/algorithm/section2/test.md)
