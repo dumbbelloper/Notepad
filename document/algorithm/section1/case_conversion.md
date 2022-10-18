@@ -47,6 +47,14 @@ public class Main {
             if (Character.isLowerCase(c)) {
                 answer += Character.toUpperCase(c);
             }
+
+//            //ASCII
+//            if (c >= 97 && c <= 122) {
+//                answer += (char) (c - 32);
+//            }
+//            if (c >= 65 && c <= 90) {
+//                answer += (char) (c + 32);
+//            }
         }
         return answer;
     }
