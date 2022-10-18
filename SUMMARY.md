@@ -4,6 +4,7 @@
     * [Spring](document/spring/index.md)
 * [Algorithmus](document/algorithmus/index.md)
     * [Section 1](document/algorithmus/section1/find_char.md)
+    * [Section 2](document/algorithmus/section2/test.md)
 * [Data Structure](document/data_structure/index.md)
     * [Section 1](document/data_structure/what_is_data_structure.md)
 * [ETC](document/etc/index.md)
