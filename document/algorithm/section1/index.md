@@ -3,3 +3,4 @@
 * [문장 속 단어 찾기](find_word_in_sentence.md)
 * [단어 뒤집기](word_flip.md)
 * [특정 단어 뒤집기](flip_specific_characters.md)
+* [중복 문자 제거](remove_duplicate_characters.md)
