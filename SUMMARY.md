@@ -9,7 +9,7 @@
       * [문장 속 단어 찾기](document/algorithm/section1/find_word_in_sentence.md)
       * [단어 뒤집기](document/algorithm/section1/word_flip.md)
       * [특정 단어 뒤집기](document/algorithm/section1/flip_specific_characters.md)
-      * [중복 문자 제거]((document/algorithm/section1/remove_duplicate_characters.md)
+      * [중복 문자 제거](document/algorithm/section1/remove_duplicate_characters.md)
     * [Section 2](document/algorithm/section2/index.md)
       * [test](document/algorithm/section2/test.md)
 * [Data Structure](document/data_structure/index.md)
