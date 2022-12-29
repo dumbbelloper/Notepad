@@ -1,6 +1,18 @@
-* [문자찾기](../section1/find_char.md)
-* [대소문자 변환](../section1/case_conversion.md)
-* [문장 속 단어 찾기](find_word_in_sentence.md)
-* [단어 뒤집기](word_flip.md)
-* [특정 단어 뒤집기](flip_specific_characters.md)
-* [중복 문자 제거](remove_duplicate_characters.md)
+* [1.문자찾기](../section1/1.자찾기.md)
+* [2.대소문자변환](../section1/2.대소문자변환.md)
+* [3.문장속단어찾기](../section1/3.문장속단어찾기.md)
+* [4.단어뒤집기](../section1/4.단어뒤집기.md)
+* [5.특정단어뒤집기](../section1/5.특정단어뒤집기.md)
+* [6.중복문자제거](../section1/6.중복문자제거.md)
+* [7.회문문자열.md](../section1/7.회문문자열.md)
+* [8.유효한팰린드롬.md](../section1/8.유효한팰린드롬.md)
+* [9.숫자만추출.md](../section1/9.숫자만추출.md)
+* [10.가장짧은문자거리.md](../section1/10.가장짧은문자거리.md)
+* [11.문자열압축.md](../section1/11.문자열압축.md)
+* [12.암호.md](../section1/12.암호.md)
+
+
+
+
+
+
